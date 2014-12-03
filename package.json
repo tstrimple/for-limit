@@ -1,0 +1,24 @@
+{
+  "name": "for-limit",
+  "version": "1.0.0",
+  "description": "A for loop which runs in parallel that allows you to limit the number of concurrent operations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tstrimple/for-limit.git"
+  },
+  "keywords": [
+    "for",
+    "loop",
+    "async"
+  ],
+  "author": "Timothy Strimple <tim@tstrimple.com>",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/tstrimple/for-limit/issues"
+  },
+"homepage": "https://github.com/tstrimple/for-limit"
+}
